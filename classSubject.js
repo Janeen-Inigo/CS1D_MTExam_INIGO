@@ -1,4 +1,4 @@
-//Prompt
+//User Information Collection using prompt 
 let subject_title=prompt("Enter your favorite subject: "); //ask your favorite sub
 let class_sched= prompt("Enter your Class Schedule: ");  //ask your schedule 
 let classroom= prompt("Enter your Classroom: "); //ask the room
